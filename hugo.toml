@@ -23,8 +23,8 @@ unsafe = true
     weight = 3
 
   [[menu.main]]
-    name = "My Anarchist Ideology"
-    url = "/posts/my-anarchist-ideology"
+    name = "Posts"
+    url = "/posts/"
     weight = 4
     
 
