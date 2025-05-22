@@ -39,7 +39,7 @@ icon = "https://greekreporter.com/wp-content/uploads/2022/11/Mastodon_logotype_s
 
 # Skills
 ---
-- [Programming](programming)
+- [Programming](it-place)
 - 3D Printering
 - Drawing
 - Sound Making
